@@ -13,6 +13,13 @@ It trains an agent on the **CartPole-v1** environment from Gymnasium, using expe
 - Automatic recording of demo MP4 videos
 
 ---
+## Training Results
+Example reward curve during training:
+
+![Training Curve](reward-result.png)
+
+Demo video of trained agent is inside `runs/`.
+---
 
 ## Quickstart
 ```bash
