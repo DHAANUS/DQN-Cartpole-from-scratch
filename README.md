@@ -18,10 +18,9 @@ Example reward curve during training:
 Demo video of trained agent is inside `runs/`.
 
 
+Example reward results during training:
 
-
-
-![Training Curve](reward-result.png)
+<img src="reward-result.png" alt="Training Results" width="500"/>
 ---
 
 ## Quickstart
